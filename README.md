@@ -10,9 +10,35 @@
 * Javascript
 
 ## Description
-_Learning new features and methods in .NET8. Learning functionalities like the DateOnly, TimeOnly objects,Cryptography and much more._
+_Learning digital signature and encryption concepts every Developer should know. Concepts like hash, keypair, Salt, Asymmetric encryption and much more._
 
-* I have organized these concepts into multiple branches, Clone the repo to your local machine and checkout the multiple branches.
+
+
+## Setup/Installation
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **the project** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git https://github.com/Emzzy241/Encryption.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/Emzzy241/Encryption.git
+```
+
+
 
 ## Detected Bugs/Issues
 _No known bugs_

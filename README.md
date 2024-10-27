@@ -1,4 +1,4 @@
-## Learning .NET8
+## Learning Encryption and Digital Signatures
 ### Learning cool stuffs in .NET8
 #### Made by Emmanuel Mojiboye
 
@@ -6,6 +6,8 @@
 * .NET8
 * C#
 * Git
+* Node v18.10.0
+* Javascript
 
 ## Description
 _Learning new features and methods in .NET8. Learning functionalities like the DateOnly, TimeOnly objects,Cryptography and much more._
@@ -22,5 +24,5 @@ _No known bugs_
 
 - _Email: emzzyoluwole@gmail.com_
 - _Instagram @Emmanuel.9944_
-- _Twitter: @Emzzy241 and Profile Name: Dynasty_
+- _Twitter: [Twitter](https://www.twitter.com/emzzy241)_
 - _Github Username: Emzzy241_

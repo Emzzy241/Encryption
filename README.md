@@ -50,5 +50,5 @@ _No known bugs_
 
 - _Email: emzzyoluwole@gmail.com_
 - _Instagram @Emmanuel.9944_
-- _Twitter: [Twitter](https://www.twitter.com/emzzy241)_
+- _Twitter: If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/emzzy241)_
 - _Github Username: Emzzy241_
